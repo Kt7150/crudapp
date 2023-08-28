@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069329718218",
+    "project_id": "taskcrudapp",
+    "storage_bucket": "taskcrudapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069329718218:android:643e38fb9e4bf00a588d33",
+        "android_client_info": {
+          "package_name": "com.example.task_crud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069329718218-759e747g09c75s8klab7o5ubqhcb8ag8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxWIHAM83sWLAItR27T6ikyFt6JilGmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069329718218-759e747g09c75s8klab7o5ubqhcb8ag8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
